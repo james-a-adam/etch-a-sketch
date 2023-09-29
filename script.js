@@ -1,4 +1,4 @@
-let gridSize = 4;
+let gridSize = 5;
 const container = document.querySelector(".container");
 
 //function to create 16x16 grid
